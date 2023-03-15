@@ -1,0 +1,310 @@
+﻿OBJECTID,LAD22CD,LAD22NM,Region,ICB_Name,ICB_Code,BNG_E,BNG_N,LONG,LAT,GlobalID,Shape__Area,Shape__Length
+1,E06000001,Hartlepool,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,447160,531474,-1.27018,54.67614,2f400ad8-2901-4ac7-b323-2de4588b680e,93771263.07,68413.36369
+2,E06000002,Middlesbrough,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,451141,516887,-1.21099,54.54467,567ad05a-69c2-4063-b76b-1a8f661a8c03,53858428.69,43642.4591
+3,E06000003,Redcar and Cleveland,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,464361,519597,-1.00608,54.56752,851f8a8c-3a68-441d-a687-8c91ca574ca1,245143000.4,94931.01179
+4,E06000004,Stockton-on-Tees,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,444940,518183,-1.30664,54.55691,166e0146-3a5c-4cda-95f4-68893c9d063d,204902859.6,118334.6262
+5,E06000005,Darlington,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,428029,515648,-1.56835,54.53534,0ebbe705-9e0e-44fc-939d-e8839205db57,197488899.7,105774.8542
+6,E06000006,Halton,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,354246,382146,-2.68853,53.33424,522a702c-ca2c-4009-b93a-b96e00de165e,79079000.74,76326.57839
+7,E06000007,Warrington,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,362744,388456,-2.56167,53.39163,acbc5437-f2ce-4a84-b9c8-7f9ba536883a,180624568.4,111927.3548
+8,E06000008,Blackburn with Darwen,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,369490,422806,-2.4636,53.7008,ac9d6de1-dbc3-40c8-b31b-f87d9a2a213b,137059917.8,63757.6845
+9,E06000009,Blackpool,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,332819,436635,-3.02199,53.82164,41a31443-72d4-4092-854b-b480a7923592,34867984.22,33974.59441
+10,E06000010,"Kingston upon Hull, City of",Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,511894,431650,-0.30382,53.7692,5d6f5975-df66-4e97-b2be-7c54a632e7d1,71610659.56,64230.21568
+11,E06000011,East Riding of Yorkshire,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,488056,443597,-0.66195,53.88112,17ea73b3-ab04-49cb-b289-df8a5c63933b,2404951568,496071.0662
+12,E06000012,North East Lincolnshire,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,523465,404564,-0.13911,53.52327,7c1d41df-5901-444f-a36e-323452971624,192712795.1,90919.13549
+13,E06000013,North Lincolnshire,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,497800,410993,-0.52407,53.58643,93d6fcbe-7585-4ab9-8ff8-3ea0b077041b,846531048.6,240856.6063
+14,E06000014,York,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,460864,452589,-1.07375,53.96582,e9bb9046-4bef-4d15-9954-e42fd37186a1,271928838.3,100422.1697
+15,E06000015,Derby,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,435609,335375,-1.47189,52.91464,49b2cf0d-d13a-4f91-be38-10983edcb28a,78022289.17,49198.99448
+16,E06000016,Leicester,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,458946,304594,-1.1304,52.63592,1f966e9e-89ee-47d0-a177-a2ca14ebcf61,73380811.94,50702.01534
+17,E06000017,Rutland,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,492992,308655,-0.6263,52.66765,33a52812-ff78-44ca-8fd2-a1a348b51fc1,393739390.5,120307.5671
+18,E06000018,Nottingham,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,456082,339969,-1.16667,52.95419,8284cb76-d932-4856-be77-fd0167c95774,74600457.64,58005.15424
+19,E06000019,"Herefordshire, County of",West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,349434,242834,-2.73931,52.08154,ea692f75-8e2e-47e1-981c-5d0319dd1f76,2179672122,338736.3441
+20,E06000020,Telford and Wrekin,West Midlands,"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,367035,313057,-2.48941,52.71417,f4f26211-499f-4b33-b816-3ff2ac23b197,290325579.7,115373.3109
+21,E06000021,Stoke-on-Trent,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,389438,346652,-2.15888,53.01707,aee56b40-70e8-4b7c-b1bc-2535d0f59b68,93408768.83,62204.4015
+22,E06000022,Bath and North East Somerset,South West,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,366217,161999,-2.48654,51.35604,11f7d8b0-b089-463d-ba4d-0519d30af522,351162481.3,137361.545
+23,E06000023,"Bristol, City of",South West,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,359990,174846,-2.57742,51.47115,25a38144-c1a0-4ef2-a84f-b3ffadede675,109684373.8,110438.1305
+24,E06000024,North Somerset,South West,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,347614,166718,-2.75438,51.39706,b8bafe7a-86a0-44a9-b28e-33d37bb8a717,374667062.4,148593.7878
+25,E06000025,South Gloucestershire,South West,"NHS Bristol, North Somerset and South Gloucestershire Integrated Care Board",E54000039,367559,183198,-2.46922,51.54673,0b5222e3-b619-4692-bfd9-08459275f29e,497027510,141237.9399
+26,E06000026,Plymouth,South West,NHS Devon Integrated Care Board,E54000037,249945,58255,-4.11297,50.40494,a4a3f07b-0bb9-435b-ba15-e4d08f3688af,79841773.91,87101.96783
+27,E06000027,Torbay,South West,NHS Devon Integrated Care Board,E54000037,289730,64613,-3.55523,50.47092,de4dd5a7-8b74-4e09-9557-4cea2a9dffc1,62914311.02,72309.71538
+28,E06000030,Swindon,South West,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,418551,186564,-1.73367,51.57763,a0212ccc-5c18-4ebd-bd44-72a8dd919b23,230095366.8,99585.23651
+29,E06000031,Peterborough,East of England,NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,517372,300777,-0.26874,52.59214,010eb8e8-6506-4e81-8fcd-1c89bd2399b0,343411018.4,111012.9269
+30,E06000032,Luton,East of England,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,508606,222559,-0.42319,51.89102,11c9c94c-27f8-4f9d-a6ef-8b260b4d25a1,43358521.65,34269.11084
+31,E06000033,Southend-on-Sea,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,587777,186837,0.706923,51.54917,e3546eb4-899d-4434-bc81-8320bd298420,41659118.13,52097.30047
+32,E06000034,Thurrock,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,562123,181590,0.334861,51.50998,38e9e2e5-4899-47ac-bc5e-13f40ec71a3b,163771446.2,108975.6851
+33,E06000035,Medway,South East,NHS Kent and Medway Integrated Care Board,E54000032,578207,175198,0.563174,51.44772,241c8780-102b-4468-a425-12cbb09318cf,193601640.1,224171.8182
+34,E06000036,Bracknell Forest,South East,NHS Frimley Integrated Care Board,E54000034,488169,168792,-0.73363,51.4113,6fc84840-0847-4854-82ca-00ad12ccfc60,109331471.5,61821.56688
+35,E06000037,West Berkshire,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,450575,172095,-1.27364,51.44559,cc5018f8-08db-4bdc-87c6-43055d25a545,704183053.7,163453.1415
+36,E06000038,Reading,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,470226,173154,-0.99071,51.45302,22425bcf-64ac-459e-a234-c3376678e41d,40388028.59,38611.74495
+37,E06000039,Slough,South East,NHS Frimley Integrated Care Board,E54000034,498920,179246,-0.57617,51.5035,37742357-897e-4c12-ad73-6e090ad9eb34,32539894.01,43311.23518
+38,E06000040,Windsor and Maidenhead,South East,NHS Frimley Integrated Care Board,E54000034,492079,176541,-0.67541,51.48034,7a990d73-bf58-4184-acd3-1308f9421ab8,198418685.2,113807.3679
+39,E06000041,Wokingham,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,476624,169902,-0.89935,51.42296,121bfca6-0507-41e0-b197-cbc917ea6792,178965898.6,85665.74278
+40,E06000042,Milton Keynes,South East,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,486408,242308,-0.7407,52.07241,f4e9dfbe-2f3a-41af-bb15-b22fe04d8894,308649515.3,100925.1826
+41,E06000043,Brighton and Hove,South East,NHS Sussex Integrated Care Board,E54000053,530279,106850,-0.15079,50.8465,7ce862f3-3547-4ca9-8698-14d4b163e1a1,82867621.65,57875.42197
+42,E06000044,Portsmouth,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,465619,101352,-1.07006,50.808,9bff8b24-9128-486f-b912-8181cbab6617,40378095.76,63434.06812
+43,E06000045,Southampton,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,442303,113700,-1.39952,50.9212,632adca9-7c41-4fc5-8694-3fc9b96caed3,49856098.06,59310.455
+44,E06000046,Isle of Wight,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,447183,85949,-1.33366,50.67129,32344f79-5e90-414a-80a0-cd96c4d9a7fb,379682941.9,188675.4983
+45,E06000047,County Durham,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,410381,532242,-1.8405,54.68513,5efd6f39-3aef-4040-88cb-566c2abb32c1,2231461505,308940.6412
+46,E06000049,Cheshire East,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,380510,363462,-2.29299,53.16793,a1d103ab-91eb-4a2b-891b-2feb63deaa8b,1166353349,289441.339
+47,E06000050,Cheshire West and Chester,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,353097,363145,-2.70298,53.16336,9104d6e0-1f51-4337-b47f-e0d6cca71099,919945930.8,321561.8267
+48,E06000051,Shropshire,West Midlands,"NHS Shropshire, Telford and Wrekin Integrated Care Board",E54000011,350227,302960,-2.73667,52.62212,a6b8a1aa-cfd9-4ec8-9f36-6e59cc71a6f1,3197325511,559525.7552
+49,E06000052,Cornwall,South West,NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,212497,64493,-4.64254,50.45022,fe7ddc54-b3d2-4c92-b560-cd572f3ce456,3548696687,1117403.488
+50,E06000053,Isles of Scilly,South West,NHS Cornwall and the Isles of Scilly Integrated Care Board,E54000036,91327,11447,-6.30217,49.92332,8496399f-1f2e-4c2d-a45a-88cc823a5be8,16345243.77,103164.2235
+51,E06000054,Wiltshire,South West,"NHS Bath and North East Somerset, Swindon and Wiltshire Integrated Care Board",E54000040,405209,158863,-1.92661,51.32883,82edc705-3ddb-49b7-8c45-c4f0ef5ee740,3255355270,394541.7509
+52,E06000055,Bedford,East of England,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,505721,256463,-0.45463,52.19628,c8e64797-3bc5-4603-b12a-c403d774c6c9,476377895.6,129915.909
+53,E06000056,Central Bedfordshire,East of England,"NHS Bedfordshire, Luton and Milton Keynes Integrated Care Board",E54000024,504615,234492,-0.47754,51.99903,2674b899-22e6-4638-9371-53218a8c158b,715570444.2,229128.58
+54,E06000057,Northumberland,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,395322,600700,-2.07523,55.30038,4fbefde7-2133-4b9f-bff5-9e3f592047c0,5032389399,585339.4849
+55,E06000058,"Bournemouth, Christchurch and Poole",South West,NHS Dorset Integrated Care Board,E54000041,410815,94066,-1.84807,50.74609,cdac6b74-ea7a-4acf-b525-aea05be43741,162072696.2,155611.0102
+56,E06000059,Dorset,South West,NHS Dorset Integrated Care Board,E54000041,370871,99796,-2.41467,50.79697,421e0ef1-ee48-437a-87a4-f3dbb1b04b7c,2491000404,554753.0572
+57,E06000060,Buckinghamshire,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,482506,208561,-0.80569,51.76966,86f6bfd7-69e7-44e2-b44e-c477008429f3,1564992711,354508.6652
+58,E06000061,North Northamptonshire,East Midlands,NHS Northamptonshire Integrated Care Board,E54000059,493590,281718,-0.62504,52.42546,8fffffe4-9415-4990-bbbf-8c49ed2b78a5,986593230.3,205114.0746
+59,E06000062,West Northamptonshire,East Midlands,NHS Northamptonshire Integrated Care Board,E54000059,467187,263879,-1.01682,52.26898,44e2f2e9-d95c-4659-9bdb-1727addfa560,1380426804,254310.5755
+60,E07000008,Cambridge,East of England,NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,545420,257901,0.126436,52.20017,06485235-486d-49d4-a1ce-5d7b1fac2e53,40710543.51,36901.2
+61,E07000009,East Cambridgeshire,East of England,NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,555576,275765,0.283149,52.35788,47e58134-94cf-495f-a55a-0c2dc714aa7e,651262151.1,231678.2483
+62,E07000010,Fenland,East of England,NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,536361,294959,0.009016,52.53544,cb25765d-f0e6-482b-8ce7-3c3ec10e5eb2,546490910.7,192506.0265
+63,E07000011,Huntingdonshire,East of England,NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,521008,274269,-0.2247,52.35315,730d0c29-114e-4534-8aa1-1a46d1f7f8ce,912559594.7,220589.158
+64,E07000012,South Cambridgeshire,East of England,NHS Cambridgeshire and Peterborough Integrated Care Board,E54000056,543295,247586,0.091017,52.10805,3a99793c-66f8-4740-82db-690545c95574,901688987.6,254533.6672
+65,E07000026,Allerdale,North West,NHS North East and North Cumbria Integrated Care Board,E54000050,317520,532997,-3.2809,54.68524,9faf0d6c-1092-443f-9219-6df7eeb98d8f,1258217662,315543.6801
+66,E07000027,Barrow-in-Furness,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,321741,474165,-3.1999,54.15731,930b3305-722f-421a-9cfb-b9fc1d8a9a42,77827098.98,133647.3685
+67,E07000028,Carlisle,North West,NHS North East and North Cumbria Integrated Care Board,E54000050,348576,565154,-2.80498,54.97833,e63e9ae7-76eb-4461-ada6-0d2b9aa70665,1038254755,271002.4112
+68,E07000029,Copeland,North West,NHS North East and North Cumbria Integrated Care Board,E54000050,310871,508739,-3.37664,54.46617,39771b6d-3c49-49c5-92c9-cd0d2b2df321,737541667.7,240553.4403
+69,E07000030,Eden,North West,NHS North East and North Cumbria Integrated Care Board,E54000050,359636,526396,-2.62678,54.63107,2de6fccb-bca2-4bfa-b881-00e46825f749,2156525219,264056.7738
+70,E07000031,South Lakeland,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,349265,489555,-2.78108,54.29908,d2baaeb8-935c-42bf-9e6d-257ef8c6a6a4,1554791457,370124.1862
+71,E07000032,Amber Valley,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,436166,348084,-1.46219,53.02884,affc5699-9c68-42fe-9eaa-421dedf558a7,265411844.4,103839.0207
+72,E07000033,Bolsover,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,448666,371548,-1.27228,53.23875,5a5b8a7a-574b-47cd-88f2-849a2e62db0d,160346180.3,93033.52474
+73,E07000034,Chesterfield,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,440049,373359,-1.40115,53.25575,1c56c6a3-8493-4da2-a84f-2e9ee5b8d99e,66025481.66,51101.32227
+74,E07000035,Derbyshire Dales,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,419697,358493,-1.70711,53.12326,cbda9a4c-50db-4ad5-acdd-c295e0ca4733,795430656.1,237515.7435
+75,E07000036,Erewash,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,443721,338063,-1.3509,52.9382,af1bde34-006c-4a04-afec-176ecc80c67a,109631114.9,71568.79218
+76,E07000037,High Peak,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,410474,387660,-1.84398,53.38569,d4f22264-8121-4c27-a628-d2090b17aa05,540226445.9,156419.1364
+77,E07000038,North East Derbyshire,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,437369,362955,-1.44253,53.16243,08d844b9-9e98-4821-9a84-e7ea30fe6072,275668261.4,154904.0938
+78,E07000039,South Derbyshire,East Midlands,NHS Derby and Derbyshire Integrated Care Board,E54000058,431443,325363,-1.5348,52.8249,3c4e3601-9fd8-4e2b-9e9f-23f61f8c767b,338091560.1,162370.7782
+79,E07000040,East Devon,South West,NHS Devon Integrated Care Board,E54000037,313787,96051,-3.22364,50.75761,6791e28f-9b2c-4ea6-ba0d-4bebf8384101,814336209.2,212425.4835
+80,E07000041,Exeter,South West,NHS Devon Integrated Care Board,E54000037,293239,92005,-3.51368,50.71782,8b77c056-6000-4a97-a4ac-046b7dd4d206,47049404.97,48620.56248
+81,E07000042,Mid Devon,South West,NHS Devon Integrated Care Board,E54000037,288064,108911,-3.59212,50.86882,e88e2ca0-a622-4744-b045-47bf3143c708,912819419.1,238184.1778
+82,E07000043,North Devon,South West,NHS Devon Integrated Care Board,E54000037,265110,132532,-3.92691,51.07621,744e30a0-52ff-47d4-ab37-31a4737c9de4,1085812490,297861.9773
+83,E07000044,South Hams,South West,NHS Devon Integrated Care Board,E54000037,270676,54036,-3.81996,50.37195,4f0b735b-6df7-4fba-94d9-7bcc37a4cf5b,886621264.9,439377.7303
+84,E07000045,Teignbridge,South West,NHS Devon Integrated Care Board,E54000037,283144,80205,-3.65289,50.60981,a0ca9c7d-a5a2-4736-859b-5b3f9505ebf6,673739471.2,184467.6077
+85,E07000046,Torridge,South West,NHS Devon Integrated Care Board,E54000037,244206,114334,-4.21728,50.90739,fe4cba0a-1840-40f1-a9dd-5e708bd6f4dd,985286990.3,296865.0707
+86,E07000047,West Devon,South West,NHS Devon Integrated Care Board,E54000037,256376,86990,-4.03361,50.66481,996e1ff3-4ee3-4084-af13-b7eea4cd8af7,1161056117,243916.7976
+87,E07000061,Eastbourne,South East,NHS Sussex Integrated Care Board,E54000053,559339,99575,0.258516,50.77387,334a0686-1b54-427f-9f5d-a507dba5d649,44184002.73,36440.13986
+88,E07000062,Hastings,South East,NHS Sussex Integrated Care Board,E54000053,581528,110694,0.578395,50.86724,9c896fa8-1516-4786-8f89-8db4c952dde0,29805556.69,33200.25947
+89,E07000063,Lewes,South East,NHS Sussex Integrated Care Board,E54000053,541474,105686,0.007671,50.83341,3203e441-4133-46eb-9cec-47be9325e642,292136249.2,163700.932
+90,E07000064,Rother,South East,NHS Sussex Integrated Care Board,E54000053,578721,119666,0.542937,50.94871,2ab051c2-ac19-4a77-86e9-c2e3e1e196ca,511803722.2,174552.002
+91,E07000065,Wealden,South East,NHS Sussex Integrated Care Board,E54000053,555048,117180,0.205156,50.93322,254eaa9d-6c61-40b2-8514-7749b2dbc54c,834923710.3,216703.7276
+92,E07000066,Basildon,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,571548,190848,0.475055,51.59036,f69305fb-4832-4472-9088-0478b1c8dd82,109963879.2,77899.75414
+93,E07000067,Braintree,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,577253,227335,0.575911,51.91634,fb62d86b-0f3b-4158-bfc0-046ba76ff495,611702678.6,164156.133
+94,E07000068,Brentwood,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,558560,196070,0.290091,51.64108,6031875c-79ad-4007-bf8e-3ad635427434,153140645,70306.8195
+95,E07000069,Castle Point,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,579490,187920,0.588084,51.56159,1ffe832d-2a16-4d0f-927e-a0e663d20799,44521863.13,136710.6041
+96,E07000070,Chelmsford,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,572116,206972,0.491177,51.73503,b538cbab-2672-407e-aab5-aeb57af8ae71,342222625.9,122820.1738
+97,E07000071,Colchester,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,596944,223693,0.859777,51.87702,50d82c4b-70ce-4cfc-a0f1-b3c9e45af88a,332121236.3,286803.7729
+98,E07000072,Epping Forest,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,548919,203759,0.154147,51.7128,6cdd275f-f44a-49d3-aa32-050763241e44,338974129,120747.5925
+99,E07000073,Harlow,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,545276,209589,0.103888,51.76614,40957fb8-62b4-43bf-b37e-a68db5e5e177,30530243.66,27879.13605
+100,E07000074,Maldon,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,591413,212072,0.773106,51.77458,7f58e83d-5901-4e40-b96f-ee55e36a74cd,357497604.1,416106.4902
+101,E07000075,Rochford,East of England,NHS Mid and South Essex Integrated Care Board,E54000026,585979,191417,0.683442,51.5909,be82e42b-32dc-4e7d-bea4-16d09381349b,166904475.3,219974.3493
+102,E07000076,Tendring,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,614190,222141,1.108981,51.85674,5f3d18a8-3f17-447b-b968-50d53d5eecb5,336195605.9,381013.7073
+103,E07000077,Uttlesford,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,557832,228865,0.294485,51.93592,e1c474f1-1f5a-4b35-8075-a852de302892,641116896.7,163609.5269
+104,E07000078,Cheltenham,South West,NHS Gloucestershire Integrated Care Board,E54000043,394925,222232,-2.07515,51.89861,ab8a48d8-70a1-40ba-b476-e6db3200933e,46565749.7,36707.46325
+105,E07000079,Cotswold,South West,NHS Gloucestershire Integrated Care Board,E54000043,402125,208209,-1.97059,51.77255,c8edc0b9-2976-4d65-91fe-0052f5086e72,1164540085,324303.9126
+106,E07000080,Forest of Dean,South West,NHS Gloucestershire Integrated Care Board,E54000043,367175,212759,-2.47755,51.81249,41c97d74-dafa-4c83-b06e-eb38bd28d118,525933859.2,185361.8239
+107,E07000081,Gloucester,South West,NHS Gloucestershire Integrated Care Board,E54000043,384071,216449,-2.23263,51.84641,54ef192b-f84d-4781-916a-29b23ffc0545,40544845.31,32905.64255
+108,E07000082,Stroud,South West,NHS Gloucestershire Integrated Care Board,E54000043,378807,202410,-2.30818,51.72001,6819f41f-ac21-4985-937a-1ecb3590dc8e,460618210.8,167763.6059
+109,E07000083,Tewkesbury,South West,NHS Gloucestershire Integrated Care Board,E54000043,386347,226279,-2.19998,51.93485,8aafdbbb-7af1-4070-baed-ce36c160dbc7,414408240.4,200124.9559
+110,E07000084,Basingstoke and Deane,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,454508,151423,-1.22021,51.25937,399093cc-d5f6-40d2-a712-68a2dfeb33c3,633773434.1,140490.093
+111,E07000085,East Hampshire,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,474405,129237,-0.9397,51.05765,2268ad01-4f6a-40a8-88ac-1a749e0970e2,514417050.7,141878.9555
+112,E07000086,Eastleigh,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,447199,116807,-1.32947,50.94876,fff85254-ed69-4a3d-8cbc-10915ca0962a,79692605.23,71510.58846
+113,E07000087,Fareham,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,453774,106319,-1.23742,50.85388,fb0c69c6-009d-4c9d-8cf7-fb25413698fd,74283681.83,62916.31544
+114,E07000088,Gosport,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,458769,101088,-1.16731,50.80636,8e4bf8d1-a67c-43ab-bf44-f331808773d8,25367354.33,37352.46396
+115,E07000089,Hart,South East,NHS Frimley Integrated Care Board,E54000034,477985,154240,-0.88321,51.28197,3e07d612-3a87-43b1-aabb-f3c7759fcc41,215260488,76239.47053
+116,E07000090,Havant,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,470178,108564,-1.00398,50.87231,3606b24f-163c-467d-b5c7-647fbd20882c,55732249.12,104099.6829
+117,E07000091,New Forest,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,428748,106521,-1.59293,50.85748,280bd790-6ea3-4e13-adbc-d576b72825d1,752036126,294946.408
+118,E07000092,Rushmoor,South East,NHS Frimley Integrated Care Board,E54000034,486022,153944,-0.76807,51.27815,ad3ca3ea-3539-4b28-97a9-a5e359e2cc4f,39051009.67,30724.62941
+119,E07000093,Test Valley,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,434930,137329,-1.50214,51.13417,9e076e2c-f5d0-4a34-b8b5-2ea5cbc6d87b,627624993.3,187162.1923
+120,E07000094,Winchester,South East,NHS Hampshire and the Isle of Wight Integrated Care Board,E54000042,453115,125901,-1.24393,51.03002,cc996022-053b-43aa-bbcd-65dc4f00988e,660978546.3,168858.2797
+121,E07000095,Broxbourne,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,534742,204251,-0.05073,51.7208,3ccaf1e5-b8b6-4d0c-897f-5d0fa70c7fa4,51459567.04,38507.92273
+122,E07000096,Dacorum,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,500084,208745,-0.55098,51.76845,f7b8b806-8258-4109-9b9d-4e33724ff46a,212438327,108871.7942
+123,E07000098,Hertsmere,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,519774,199352,-0.26899,51.68017,be4db89f-a378-406c-bada-730c3d0797f7,101116893,60229.53388
+124,E07000099,North Hertfordshire,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,522191,230255,-0.22315,51.95737,5052d3b4-4d43-4ef5-b009-e54cb0283e97,375373551.5,165904.1295
+125,E07000102,Three Rivers,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,507313,196418,-0.45005,51.65632,73da8311-4d80-415e-bbda-a8051619b1a2,88805276.1,73211.2027
+126,E07000103,Watford,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,510441,198197,-0.40429,51.6717,e7c0b087-e750-4825-926a-a8f504e63c23,21403764.77,25970.257
+127,E07000105,Ashford,South East,NHS Kent and Medway Integrated Care Board,E54000032,597640,140644,0.823374,51.13096,6d12ab30-9727-47bf-9bcc-94089b65071f,580584618.4,146594.864
+128,E07000106,Canterbury,South East,NHS Kent and Medway Integrated Care Board,E54000032,616032,158096,1.096342,51.28102,2408bd7b-bc0f-478b-a07e-b8982e8cce6f,308775735.9,131685.6288
+129,E07000107,Dartford,South East,NHS Kent and Medway Integrated Care Board,E54000032,556167,172917,0.245276,51.43373,b90932dd-8dfe-4b19-9ea8-3d9abc3b76d0,72712523.33,55347.69365
+130,E07000108,Dover,South East,NHS Kent and Medway Integrated Care Board,E54000032,628964,150942,1.276887,51.21176,96534262-ce90-47bf-85e8-09f35543dd64,315309989.7,144212.1611
+131,E07000109,Gravesham,South East,NHS Kent and Medway Integrated Care Board,E54000032,566969,169114,0.398744,51.39649,7cc86d44-832d-4b47-9cac-745ad802f44d,99016412.1,58908.99607
+132,E07000110,Maidstone,South East,NHS Kent and Medway Integrated Care Board,E54000032,580489,151670,0.584061,51.23566,757c8e07-5aac-4540-bb77-37ad3fc562ff,393321668.6,120150.4098
+133,E07000111,Sevenoaks,South East,NHS Kent and Medway Integrated Care Board,E54000032,552776,155218,0.188936,51.27563,b76a6a1a-73ce-4bbb-8add-1f5676b391de,370335263,130894.2254
+134,E07000112,Folkestone and Hythe,South East,NHS Kent and Medway Integrated Care Board,E54000032,610318,134595,1.000795,51.07213,ae0ac81b-667e-4eff-bdb6-ddcf5f4463b7,356983168.5,146277.1964
+135,E07000113,Swale,South East,NHS Kent and Medway Integrated Care Board,E54000032,593583,161818,0.776893,51.32251,ff401e8b-fd3e-43bd-ab45-14d40175091f,373236372.1,309069.4826
+136,E07000114,Thanet,South East,NHS Kent and Medway Integrated Care Board,E54000032,631839,166752,1.328226,51.35252,69650c54-625a-4371-8120-3f9f116d7096,103597907.8,61724.9858
+137,E07000115,Tonbridge and Malling,South East,NHS Kent and Medway Integrated Care Board,E54000032,564014,153898,0.349306,51.26064,ea72cfa1-92f5-4917-ad77-818eac79cc85,240108095,129788.7872
+138,E07000116,Tunbridge Wells,South East,NHS Kent and Medway Integrated Care Board,E54000032,573139,136599,0.471632,51.10254,54a7e3c7-e1f5-42af-b567-6069e204038f,331301525.2,145079.2807
+139,E07000117,Burnley,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,384886,430882,-2.2308,53.77406,ae8e835e-e70c-478f-9433-0c7d656e2251,110690603.2,56262.67623
+140,E07000118,Chorley,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,359189,419724,-2.61921,53.6724,1fbf8b6e-d436-4d85-bddc-50cb39936dad,202676580.3,111139.7683
+141,E07000119,Fylde,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,339554,433811,-2.91914,53.79709,56087fcd-d93d-4ac7-9f83-ddc3a2ce5973,165566525.4,129564.3233
+142,E07000120,Hyndburn,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,374407,428971,-2.38964,53.75648,6c754acf-40c8-47f8-a13e-65a9a0fe2ba2,73012581.74,41863.53861
+143,E07000121,Lancaster,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,356896,464988,-2.6603,54.07901,34041a00-12ef-4bef-bce5-4e0d64b9ca51,566753970.2,324017.1051
+144,E07000122,Pendle,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,387637,443368,-2.18957,53.88636,cb0b29f8-eaba-4264-adad-2a6799ca1cd5,169376711.8,77788.81413
+145,E07000123,Preston,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,352825,436432,-2.71809,53.82202,1d4fadee-0763-447a-b178-1be58430b119,142288128.9,80757.33806
+146,E07000124,Ribble Valley,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,372687,447676,-2.4174,53.9245,41dfafdf-13c8-42e3-a553-fcad7511a232,584442953.3,147576.2097
+147,E07000125,Rossendale,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,382827,420955,-2.26149,53.68478,3f10144b-60f1-41f6-8bc7-9901fe99aca9,138023931.2,70164.07093
+148,E07000126,South Ribble,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,352017,425840,-2.72871,53.72675,bfadc50c-fb7d-43fa-b556-1212dfb2eefa,113088686.9,99529.09159
+149,E07000127,West Lancashire,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,342611,413270,-2.86893,53.61283,45772498-72f9-46f6-b813-160c0ab95a98,346502793.2,216263.6995
+150,E07000128,Wyre,North West,NHS Lancashire and South Cumbria Integrated Care Board,E54000048,347295,445159,-2.80359,53.89991,2110f5ee-36bd-40d3-9b63-7d3b945b7b55,282048743.3,202405.6458
+151,E07000129,Blaby,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,454385,297994,-1.19887,52.57706,d9d663fc-bf13-46c6-8464-6a239e98d536,130476249.3,97753.85135
+152,E07000130,Charnwood,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,458365,316155,-1.13694,52.7399,c1c59b76-1a1b-48e2-8b27-5133372cee2e,279024993.3,112562.1194
+153,E07000131,Harborough,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,474549,293875,-0.90229,52.53766,10ecf7ef-7efe-4f52-819d-323334cdac40,592728231.3,178102.8403
+154,E07000132,Hinckley and Bosworth,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,439538,301379,-1.41755,52.60877,46dd4c4e-a58f-4456-9bae-bd1a5fab89ca,297355137.1,108963.5544
+155,E07000133,Melton,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,477328,323472,-0.8544,52.80329,e3900d3a-04db-4a0d-a8a0-25fe9c3daa1b,481365589.9,136341.3977
+156,E07000134,North West Leicestershire,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,439111,316252,-1.42209,52.7425,73f332cb-1fb1-40e3-9a7b-936e0f429e12,279328119.1,113610.4673
+157,E07000135,Oadby and Wigston,East Midlands,"NHS Leicester, Leicestershire and Rutland Integrated Care Board",E54000015,461543,299379,-1.093,52.58875,3fb24f64-44cd-417f-9c61-0b7e43f2a3eb,23512250.18,30024.59247
+158,E07000136,Boston,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,526851,343953,-0.11218,52.97794,bd7bca03-4511-4206-9038-22f3fc216b4d,363498560,399921.2518
+159,E07000137,East Lindsey,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,534861,376064,0.020516,53.26446,19a415bd-e62f-49c3-a42e-19bc33493896,1766580492,355052.3205
+160,E07000138,Lincoln,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,496347,370096,-0.55848,53.21921,3babee3f-b54a-41ce-a2f6-41e21826c1eb,35650904.24,32707.09451
+161,E07000139,North Kesteven,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,502135,354788,-0.4767,53.08058,7987c37f-0f1b-45ea-9334-6c1d75b418cd,922437912.9,180159.561
+162,E07000140,South Holland,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,532910,322928,-0.03057,52.78758,413f3999-52f9-49f4-ad6b-e2612b475702,749574664.5,413151.3922
+163,E07000141,South Kesteven,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,501406,328986,-0.49565,52.84885,17aa4312-9445-4a68-b66f-a42c70303fc7,942601820.6,206852.3802
+164,E07000142,West Lindsey,East Midlands,NHS Lincolnshire Integrated Care Board,E54000013,499314,390326,-0.50774,53.40044,7ae1caa5-e514-4d27-bea7-3b35f59364e6,1155679288,246982.7162
+165,E07000143,Breckland,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,591015,303330,0.818716,52.59421,e191d7ee-d806-4a31-a4ed-8c89e21eaff1,1305121502,236074.4382
+166,E07000144,Broadland,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,619864,315909,1.252317,52.69622,ee7b89cf-7e75-47dd-8d78-0729e8497567,551988642.1,211892.4498
+167,E07000145,Great Yarmouth,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,646761,315881,1.64951,52.68439,30f721ff-c328-4d6c-8b61-6e15d77a7a4f,174236614.2,140336.7569
+168,E07000146,King's Lynn and West Norfolk,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,571219,315805,0.533243,52.71283,74fe485c-7f5f-4322-976d-fb01c191181f,1439032117,634270.3486
+169,E07000147,North Norfolk,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,611076,330857,1.132099,52.83389,d24577f0-b804-499f-bfee-f25dc3a03936,967130727.2,540125.3645
+170,E07000148,Norwich,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,622355,309773,1.284979,52.64013,39161dd2-3207-479f-8276-49dd086ee5ad,39083197.73,75812.05636
+171,E07000149,South Norfolk,East of England,NHS Norfolk and Waveney Integrated Care Board,E54000022,628990,295823,1.373233,52.51218,25a5b429-8579-46bc-8974-30ec2b19067b,907496223,260290.3597
+172,E07000163,Craven,Yorkshire and The Humber,NHS West Yorkshire Integrated Care Board,E54000054,389513,461989,-2.16168,54.05376,7308823e-b0b3-464d-8ec0-4a229b446482,1178923731,197112.7754
+173,E07000164,Hambleton,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,443009,490546,-1.34049,54.30872,689901f3-ade4-4444-a9b9-18230b6bd4a8,1311276527,293327.9088
+174,E07000165,Harrogate,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,427473,464652,-1.58161,54.07708,2bd661e2-f9aa-4057-b8a5-5eec23c5d065,1309028760,243810.9326
+175,E07000166,Richmondshire,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,401039,495786,-1.98552,54.35761,008ff0b5-286b-4a10-bbf5-f11c213a9081,1318702630,219137.0037
+176,E07000167,Ryedale,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,474645,478532,-0.85735,54.19713,8f75c337-700c-4b48-9dc5-f3846588499c,1576113631,282000.2488
+177,E07000168,Scarborough,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,487119,504929,-0.65851,54.43234,15ad124e-b385-4227-b431-88f172f287db,746798619.8,223986.8257
+178,E07000169,Selby,Yorkshire and The Humber,NHS Humber and North Yorkshire Integrated Care Board,E54000051,457551,426670,-1.12908,53.73327,e7619862-d932-4e9a-9c86-4ccf5cb5782d,599305167.8,262252.2118
+179,E07000170,Ashfield,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,450035,355843,-1.25422,53.09747,880f9d99-4d59-40bf-a4d9-e137f73ba817,109561778.2,66998.18352
+180,E07000171,Bassetlaw,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,468073,384835,-0.9787,53.35604,e4bbd913-550e-40bb-9a33-69108ef07b1f,637844237.4,156951.7285
+181,E07000172,Broxtowe,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,449829,341893,-1.25944,52.9721,f112ea28-049f-4fb1-9083-a66644ba2941,80142028.29,64009.10013
+182,E07000173,Gedling,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,459184,347811,-1.11907,53.02434,96fe6558-c935-45b6-8ce1-964d333a01b8,119962249.5,68699.82427
+183,E07000174,Mansfield,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,455047,363637,-1.17804,53.16703,2e7db91b-1f7b-4d8a-8367-e9d04a05dd2a,76667527.24,50238.61586
+184,E07000175,Newark and Sherwood,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,470624,357451,-0.94643,53.1096,9fcc5589-45ef-4cc0-a285-3064dc40ba7c,651370559.5,184334.2654
+185,E07000176,Rushcliffe,East Midlands,NHS Nottingham and Nottinghamshire Integrated Care Board,E54000060,466606,335453,-1.01097,52.9124,64282150-f7f4-49c0-a15b-4584744866a9,409236191.3,120709.7703
+186,E07000177,Cherwell,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,449301,221201,-1.28506,51.8872,2e2e8504-7778-41da-97fc-8eb862668c40,588710667.4,218996.3033
+187,E07000178,Oxford,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,452277,206368,-1.24405,51.75357,ef91d51d-2ae2-4d31-98bf-2d0114c55cab,45627323.24,34302.87799
+188,E07000179,South Oxfordshire,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,463890,191964,-1.07847,51.62288,478840c3-7085-4afc-8766-86ae395752c4,678380199.5,201413.1119
+189,E07000180,Vale of White Horse,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,435693,195197,-1.48543,51.65443,145f599e-61df-4511-bdaa-66935fd1e918,578733529.3,171047.262
+190,E07000181,West Oxfordshire,South East,"NHS Buckinghamshire, Oxfordshire and Berkshire West Integrated Care Board",E54000044,434343,215816,-1.50292,51.8399,759c6a80-99bd-486a-8868-3c1cc25652c2,714422028.7,155618.7112
+191,E07000187,Mendip,South West,NHS Somerset Integrated Care Board,E54000038,362238,144090,-2.54178,51.19476,8df05fb0-962b-4010-8532-0b85931bbfe3,739389543,194716.4918
+192,E07000188,Sedgemoor,South West,NHS Somerset Integrated Care Board,E54000038,338429,143998,-2.88246,51.19186,4d3b3e47-8a27-445e-ae45-1fa9166fc24e,564224000.7,252995.2479
+193,E07000189,South Somerset,South West,NHS Somerset Integrated Care Board,E54000038,345633,120798,-2.77588,50.98399,b8c2f24a-2667-4bdc-8e52-f5fa1ce9d503,959009747.1,234199.3667
+194,E07000192,Cannock Chase,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,401261,311553,-1.98277,52.70166,ca294995-deea-406b-b6bb-7fe1875c55dc,78892540.95,49320.69222
+195,E07000193,East Staffordshire,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,412601,326569,-1.81438,52.83651,549879eb-ed2c-46ea-b994-bf318a6d58a1,389992710.3,178723.5716
+196,E07000194,Lichfield,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,416283,310967,-1.76049,52.69615,ade94206-ec50-4d8a-bc14-8b3e4e7fe66b,331249623.3,124711.523
+197,E07000195,Newcastle-under-Lyme,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,378199,345174,-2.32631,53.00345,75718b94-c6a9-4a91-b819-7fed892ee9a8,210967061.3,103801.9261
+198,E07000196,South Staffordshire,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,389625,311037,-2.15495,52.69692,d08f3d3e-89d1-4864-a730-723ed933c60e,407323359.5,181227.2675
+199,E07000197,Stafford,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,389001,327836,-2.16475,52.84792,0ff2643e-a511-4765-82a9-1093ad752a8a,598191034.4,154167.5791
+200,E07000198,Staffordshire Moorlands,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,400543,352443,-1.99334,53.06924,585b7d6b-67ca-4517-b536-e9200bdb97ed,575824819.9,146939.0672
+201,E07000199,Tamworth,West Midlands,NHS Staffordshire and Stoke-on-Trent Integrated Care Board,E54000010,421455,302550,-1.68451,52.62031,050086c7-8106-4ea1-b611-8f400f5ada42,30861262.3,30137.1179
+202,E07000200,Babergh,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,599987,244692,0.916149,52.0645,ccda27b6-82c0-416e-9dac-9f921dd672d9,595120605.1,198595.2941
+203,E07000202,Ipswich,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,617161,244456,1.166145,52.05592,867ba80f-18ab-497d-96c7-8d65a6a85618,39514140.7,44244.78615
+204,E07000203,Mid Suffolk,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,611646,262338,1.096953,52.21859,5a61e0df-2602-48de-a6ef-23976a62742a,871027675.4,188021.8646
+205,E07000207,Elmbridge,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,511882,163658,-0.39441,51.36098,e4708072-5635-46f4-966c-ad9ee78c6b61,96304086.1,51313.76153
+206,E07000208,Epsom and Ewell,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,521176,161475,-0.26172,51.33945,0fd4ca7a-0b38-40f9-933a-8781b260eae4,34109544.84,28202.05707
+207,E07000209,Guildford,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,500408,151481,-0.56257,51.25366,6d603b89-5804-4898-b2ff-a33b341e20e9,270993264.3,125213.374
+208,E07000210,Mole Valley,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,518377,148953,-0.30603,51.22749,deb43fb9-9935-4414-8534-bf5c78c04a36,258300094.9,102795.4182
+209,E07000211,Reigate and Banstead,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,525786,152574,-0.19871,51.25846,1c2cb788-2267-4116-a9c5-85d75ba162f9,129129643.5,77984.07281
+210,E07000212,Runnymede,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,501777,166979,-0.53855,51.39273,75bd49b3-615b-4fcf-9b98-dadeeb13d3d8,78051759.77,44988.57093
+211,E07000213,Spelthorne,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,507012,169622,-0.46254,51.41552,f0a105b8-f1ac-49db-9208-9cb5c026ee09,51166931.86,43535.95046
+212,E07000214,Surrey Heath,South East,NHS Frimley Integrated Care Board,E54000034,491362,160483,-0.68986,51.3361,a1083e41-2c6a-498b-895b-39b3072cd77d,95104295.66,52368.28195
+213,E07000215,Tandridge,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,536365,150325,-0.04805,51.23581,a3c575e5-a81e-49d1-a0fc-2319baf4819f,248194720.3,80758.51474
+214,E07000216,Waverley,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,496363,140635,-0.62343,51.15686,0f18049d-4521-4847-b652-7910ada54b97,345198424.9,122711.6573
+215,E07000217,Woking,South East,NHS Surrey Heartlands Integrated Care Board,E54000052,499087,157542,-0.57982,51.30837,41d5fe37-d61a-4ea7-ae1a-981c9d5259b4,63555291.82,52818.78392
+216,E07000218,North Warwickshire,West Midlands,NHS Coventry and Warwickshire Integrated Care Board,E54000018,425570,296399,-1.6242,52.56484,07e168b3-a155-4021-8bd6-50a380c0fc94,284262680.4,110997.2085
+217,E07000219,Nuneaton and Bedworth,West Midlands,NHS Coventry and Warwickshire Integrated Care Board,E54000018,435419,289352,-1.47965,52.50094,d6fa1394-1a77-4d27-b838-baf3703c752e,78975395.8,46977.44475
+218,E07000220,Rugby,West Midlands,NHS Coventry and Warwickshire Integrated Care Board,E54000018,446498,276244,-1.31828,52.38228,ab2a80d5-3263-4dfa-9034-53e0cabefada,353524978.6,111663.5816
+219,E07000221,Stratford-on-Avon,West Midlands,NHS Coventry and Warwickshire Integrated Care Board,E54000018,425019,251536,-1.63565,52.16154,1b0a909e-1753-4fcb-8153-4318b32ca3ad,977881228.7,253359.1324
+220,E07000222,Warwick,West Midlands,NHS Coventry and Warwickshire Integrated Care Board,E54000018,428484,267113,-1.58369,52.30142,292efddf-60a4-46f5-a04c-1a3a3c0fa363,282877405.3,113378.5571
+221,E07000223,Adur,South East,NHS Sussex Integrated Care Board,E54000053,518076,106472,-0.32417,50.84572,77aa2371-74be-429d-b62b-1991fb36dba9,42103375.36,56996.61847
+222,E07000224,Arun,South East,NHS Sussex Integrated Care Board,E54000053,495144,105723,-0.64999,50.84321,6439a270-8adc-409d-8235-87a705046b84,220960226.4,150482.8404
+223,E07000225,Chichester,South East,NHS Sussex Integrated Care Board,E54000053,490285,116600,-0.7163,50.94177,b3f34058-a382-4157-a6f3-4bc30248feea,786211975.2,272311.7192
+224,E07000226,Crawley,South East,NHS Sussex Integrated Care Board,E54000053,526390,137581,-0.19533,51.12357,7463f7fc-7c16-4e38-93b8-84d411a6a1b5,44968269.55,38066.83839
+225,E07000227,Horsham,South East,NHS Sussex Integrated Care Board,E54000053,513674,123840,-0.38126,51.00272,d252b658-757c-4c58-890d-3dfdf8e65512,530238857.4,211641.6303
+226,E07000228,Mid Sussex,South East,NHS Sussex Integrated Care Board,E54000053,533054,130623,-0.10272,51.05953,50c88f98-277c-40aa-805f-23396fccd124,333998470.1,129528.5469
+227,E07000229,Worthing,South East,NHS Sussex Integrated Care Board,E54000053,512679,104948,-0.40127,50.8331,d4aee6db-3984-4813-a195-760438e9be23,32515899.48,28085.35838
+228,E07000234,Bromsgrove,West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,399840,273736,-2.00376,52.36169,56fc3c50-4109-45e3-9741-3d1fb00e3c41,217024270.5,110388.4417
+229,E07000235,Malvern Hills,West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,377465,252197,-2.33089,52.16758,aec7c0c0-f7c9-46bb-b0cf-0ad3cd872cf2,577087348.7,223489.4819
+230,E07000236,Redditch,West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,403705,265253,-1.9471,52.28541,f32f6e85-39af-4ae4-b33a-df3b316598ab,54264849.9,40297.87039
+231,E07000237,Worcester,West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,385725,255196,-2.21025,52.19482,b5011d13-11c0-415b-9f87-1ee016e55c0c,33295648.34,30432.4226
+232,E07000238,Wychavon,West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,398991,247839,-2.01614,52.12886,ce7da5c7-5a3b-4ed3-b1ad-71b2cc5878ef,663450903.7,214632.5076
+233,E07000239,Wyre Forest,West Midlands,NHS Herefordshire and Worcestershire Integrated Care Board,E54000019,384106,276388,-2.23494,52.3853,0794c005-6a39-4c35-a276-8addfdc74342,195422054.8,97451.21177
+234,E07000240,St Albans,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,514580,209623,-0.3407,51.77356,ff555c71-ef1b-4171-84a0-c9c0f4724eac,161259073.5,71889.64456
+235,E07000241,Welwyn Hatfield,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,525345,208467,-0.18518,51.76087,f869d3d2-0649-45a3-b72b-5c6220712da8,129485124.5,81109.17019
+236,E07000242,East Hertfordshire,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,537995,220370,0.002739,51.86485,0c35be1f-4b97-4f41-bc67-2f292041f079,475708898.7,132748.8828
+237,E07000243,Stevenage,East of England,NHS Hertfordshire and West Essex Integrated Care Board,E54000025,524622,224531,-0.18987,51.90539,c9395e4a-a3c1-47f3-b018-47cfde7c5749,25941880.78,28107.93251
+238,E07000244,East Suffolk,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,636043,266272,1.456186,52.24399,0a46a8c0-729c-4897-8d2c-37c119526546,1260803656,543590.0078
+239,E07000245,West Suffolk,East of England,NHS Suffolk and North East Essex Integrated Care Board,E54000023,580944,271124,0.652769,52.30842,7ce4d20b-8054-4422-b876-9281109d21d7,1034726565,269073.9465
+240,E07000246,Somerset West and Taunton,South West,NHS Somerset Integrated Care Board,E54000038,304961,130227,-3.35764,51.06348,1c13ee2d-115c-46a1-b916-c834b026856b,1189157721,282902.112
+241,E08000001,Bolton,North West,NHS Greater Manchester Integrated Care Board,E54000057,368352,409873,-2.47952,53.58449,3cf29b9f-e26b-45e4-ab87-f16164461514,139798080.1,78824.67674
+242,E08000002,Bury,North West,NHS Greater Manchester Integrated Care Board,E54000057,379658,410768,-2.3088,53.5931,e7cbfcc2-d5f2-4930-bf09-53f71e81433b,99464932.54,66873.21384
+243,E08000003,Manchester,North West,NHS Greater Manchester Integrated Care Board,E54000057,384591,397063,-2.23359,53.47009,5e957b2e-e354-4c26-b349-12adcc8eaf95,115612288.2,83817.46501
+244,E08000004,Oldham,North West,NHS Greater Manchester Integrated Care Board,E54000057,396603,406784,-2.05274,53.55768,b55eb795-01b6-4384-b8d0-2a8f2e470350,142345446.5,69703.18907
+245,E08000005,Rochdale,North West,NHS Greater Manchester Integrated Care Board,E54000057,390315,412326,-2.14784,53.60741,b4657070-158e-43e8-8d1d-dfa6d316f640,158161335.4,81275.79023
+246,E08000006,Salford,North West,NHS Greater Manchester Integrated Care Board,E54000057,374556,398128,-2.38485,53.47927,31294ae9-6d75-44e8-a573-090272ac8bff,97149061.85,62391.75233
+247,E08000007,Stockport,North West,NHS Greater Manchester Integrated Care Board,E54000057,391806,388264,-2.12467,53.39116,00153eaa-0d54-4c71-95b2-b25d6d824148,126047342,71154.55408
+248,E08000008,Tameside,North West,NHS Greater Manchester Integrated Care Board,E54000057,394987,397995,-2.077,53.47867,67237807-6989-48f9-b870-9d673cf19d6d,103161880.7,54107.85303
+249,E08000009,Trafford,North West,NHS Greater Manchester Integrated Care Board,E54000057,375790,391162,-2.36572,53.41671,f9fff18a-3114-43b6-a275-0968a57e19c0,106016489.6,59146.40898
+250,E08000010,Wigan,North West,NHS Greater Manchester Integrated Care Board,E54000057,362136,402125,-2.57247,53.51444,2f3f916e-7789-4838-b184-d56904bc405f,188165213.8,84932.40609
+251,E08000011,Knowsley,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,344762,393778,-2.83297,53.43788,30008014-076a-4185-8a5b-c790d7ae7686,86532486.76,66882.6186
+252,E08000012,Liverpool,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,339361,390553,-2.91364,53.4083,2d3fdb18-a828-4252-aad4-ee2c250017cc,111822060.3,61271.1215
+253,E08000013,St. Helens,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,353412,395992,-2.7031,53.45862,2a845ab2-916d-4e80-a0cc-2db87046ab5c,136410228.2,75005.8973
+254,E08000014,Sefton,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,334282,398832,-2.99177,53.4821,63b4105b-35aa-487a-bd18-5bef2ea6bc79,156550521.9,125750.1689
+255,E08000015,Wirral,North West,NHS Cheshire and Merseyside Integrated Care Board,E54000008,329110,386965,-3.06701,53.37478,b1b12645-b5fa-41ce-85ab-a4dc6b03b3ce,160870001.2,126188.1261
+256,E08000016,Barnsley,Yorkshire and The Humber,NHS South Yorkshire Integrated Care Board,E54000061,429979,403327,-1.54925,53.52577,72ad351c-6187-474d-9f57-dbd55e5754f7,329132310.3,123629.8548
+257,E08000017,Doncaster,Yorkshire and The Humber,NHS South Yorkshire Integrated Care Board,E54000061,459167,403735,-1.10894,53.52697,a98710dc-ff85-45fb-a62e-af18d9b75a02,568021599.6,168567.9738
+258,E08000018,Rotherham,Yorkshire and The Humber,NHS South Yorkshire Integrated Care Board,E54000061,447542,388980,-1.28651,53.39553,29880480-4587-40f1-a1b6-f31ba705bed7,286460847.8,103584.3101
+259,E08000019,Sheffield,Yorkshire and The Humber,NHS South Yorkshire Integrated Care Board,E54000061,430511,389736,-1.54254,53.40358,2fa6f055-5566-413b-8974-4d469443fbe8,367853701.2,129228.1161
+260,E08000021,Newcastle upon Tyne,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,422287,569661,-1.65297,55.021,f4722629-44a0-4dc9-8bc7-697ba8a7adf3,113437334.6,64340.42996
+261,E08000022,North Tyneside,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,431471,570602,-1.50923,55.02896,25ea98cf-c5f4-44f9-9ba2-6ab8762e4259,82298326.26,63023.68973
+262,E08000023,South Tyneside,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,435514,564057,-1.44679,54.96988,6f110547-6942-4cda-831a-927dc7b95e52,64434562.6,49089.56614
+263,E08000024,Sunderland,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,436470,551524,-1.43344,54.85719,255f394a-e9fe-4064-aa21-444e7053bdd1,137390705.2,97580.06227
+264,E08000025,Birmingham,West Midlands,NHS Birmingham and Solihull Integrated Care Board,E54000055,408150,287352,-1.88141,52.48404,725b2e01-979c-4f95-98f1-aba971eba074,267777411,104108.3231
+265,E08000026,Coventry,West Midlands,NHS Coventry and Warwickshire Integrated Care Board,E54000018,432807,279689,-1.51908,52.41423,2352b300-568e-4413-8f5a-ebb465c54b19,98624252.1,52997.59788
+266,E08000027,Dudley,West Midlands,NHS Black Country Integrated Care Board,E54000062,393191,288584,-2.10171,52.49513,1d3162c3-85d7-46c0-95b2-5a108a7cf7a3,97939550.25,72677.55254
+267,E08000028,Sandwell,West Midlands,NHS Black Country Integrated Care Board,E54000062,399573,290764,-2.00771,52.51477,e75f2fbe-2287-41ac-ac46-157de46a3397,85588772.92,57896.65362
+268,E08000029,Solihull,West Midlands,NHS Birmingham and Solihull Integrated Care Board,E54000055,419434,281483,-1.71558,52.431,6cfe39a1-2553-4ab4-acc8-4244abb7a219,178289343.3,98749.23877
+269,E08000030,Walsall,West Midlands,NHS Black Country Integrated Care Board,E54000062,402098,300804,-1.97044,52.60503,f1ca3a78-d4db-4165-aa4e-7a81cd3f0d4e,103990093,58573.35785
+270,E08000031,Wolverhampton,West Midlands,NHS Black Country Integrated Care Board,E54000062,391463,300016,-2.12746,52.59788,a3b912a3-ca0d-462e-ada4-3d36ca42795c,69439423.93,54798.70571
+271,E08000032,Bradford,Yorkshire and The Humber,NHS West Yorkshire Integrated Care Board,E54000054,408395,438626,-1.87389,53.84382,25b46885-4542-4812-8e87-ce108902a988,366394313.5,131637.8316
+272,E08000033,Calderdale,Yorkshire and The Humber,NHS West Yorkshire Integrated Care Board,E54000054,402617,424896,-1.96182,53.72048,b5425b55-cd2b-4780-bf63-75c9b1eabd1d,363988452.1,105460.2567
+273,E08000034,Kirklees,Yorkshire and The Humber,NHS West Yorkshire Integrated Care Board,E54000054,414586,416223,-1.78085,53.64233,492b4b79-d330-4cdc-9d59-dbffcba8e149,408496935.3,121474.7951
+274,E08000035,Leeds,Yorkshire and The Humber,NHS West Yorkshire Integrated Care Board,E54000054,432528,436384,-1.50736,53.82273,06b08a9a-86b6-4fac-9d77-5c7bd10a52b2,551788498.3,156582.7662
+275,E08000036,Wakefield,Yorkshire and The Humber,NHS West Yorkshire Integrated Care Board,E54000054,438366,418235,-1.42092,53.65922,fe3dd348-83d0-4fb4-bdc8-88c262cb6ede,338609150.8,106102.959
+276,E08000037,Gateshead,North East,NHS North East and North Cumbria Integrated Care Board,E54000050,420158,559652,-1.68696,54.93115,58947b80-1af8-4c03-9a73-891ee0c8f21f,142324965.1,87283.19829
+277,E09000001,City of London,London,NHS North East London Integrated Care Board,E54000029,532381,181359,-0.09353,51.51565,beb2df0e-0bc1-4c88-a9b0-385d147778f7,2884635.814,9010.898275
+278,E09000002,Barking and Dagenham,London,NHS North East London Integrated Care Board,E54000029,547757,185111,0.129479,51.54555,4fb01f4b-d55f-4f1b-980f-df2161177812,36104537.32,39824.17124
+279,E09000003,Barnet,London,NHS North Central London Integrated Care Board,E54000028,523472,191753,-0.21821,51.61108,23089792-39c3-432d-bcdc-9b23414d03a7,86793334.35,49735.82284
+280,E09000004,Bexley,London,NHS South East London Integrated Care Board,E54000030,549202,175434,0.146212,51.45822,60ab4b40-8ca8-402a-9bbb-cbce58513548,60586821.59,46087.51487
+281,E09000005,Brent,London,NHS North West London Integrated Care Board,E54000027,519615,186468,-0.27568,51.56441,b6676093-e1dd-45df-b0ca-80e9fc1d08a9,43207731.53,37633.82012
+282,E09000006,Bromley,London,NHS South East London Integrated Care Board,E54000030,542036,165708,0.039246,51.37267,36a7837f-080e-4157-b83c-d2ff20e86470,150129507.1,74623.10627
+283,E09000007,Camden,London,NHS North Central London Integrated Care Board,E54000028,527492,184284,-0.16289,51.54306,fd8305f3-ddb0-41fd-92bf-5ac4d42d46e0,21809361.35,25841.34393
+284,E09000008,Croydon,London,NHS South West London Integrated Care Board,E54000031,533922,164745,-0.07761,51.36598,ca95c0f3-1ad2-410e-add0-cd8e7941438d,86529582.44,57497.75342
+285,E09000009,Ealing,London,NHS North West London Integrated Care Board,E54000027,517057,181960,-0.31407,51.52443,70022351-a0ab-404f-85f8-1e647121b961,55539881.09,46687.58115
+286,E09000010,Enfield,London,NHS North Central London Integrated Care Board,E54000028,532829,196197,-0.08147,51.64888,32019d02-1546-4a03-9835-e279969f8972,82181653.43,40454.20591
+287,E09000011,Greenwich,London,NHS South East London Integrated Care Board,E54000030,542507,175879,0.050093,51.46394,7e0e56d1-6f15-4245-b657-f3e8f1774186,47296375.99,46258.40221
+288,E09000012,Hackney,London,NHS North East London Integrated Care Board,E54000029,534560,185787,-0.06045,51.55492,aa6e76ec-54d3-47f1-bacf-cf7e4bf8ad07,19047237.85,24982.35395
+289,E09000013,Hammersmith and Fulham,London,NHS North West London Integrated Care Board,E54000027,523867,177993,-0.21735,51.48733,fbd1a944-4c86-42da-b4b0-dc7ab283ecf8,16391378.2,23470.14309
+290,E09000014,Haringey,London,NHS North Central London Integrated Care Board,E54000028,531262,189349,-0.10667,51.58771,67156db8-75a1-4b5d-80c9-45acb3475b23,29592870.43,28352.6503
+291,E09000015,Harrow,London,NHS North West London Integrated Care Board,E54000027,515356,189736,-0.33603,51.59467,a0b37c86-04c3-42f7-84a3-29c516016b15,50467537.5,33256.51427
+292,E09000016,Havering,London,NHS North East London Integrated Care Board,E54000029,555032,187514,0.235368,51.56519,83c2a65c-7282-4045-b186-34ddfb245a0a,112328270.1,62456.3272
+293,E09000017,Hillingdon,London,NHS North West London Integrated Care Board,E54000027,508166,183120,-0.44182,51.53663,66746e9f-7514-4bf8-baea-d4c279647c86,115741349.2,62392.04166
+294,E09000018,Hounslow,London,NHS North West London Integrated Care Board,E54000027,512742,174965,-0.37847,51.46243,1de9c695-c4f3-4e94-ad0f-0e55f2d80980,55950879.59,62599.1102
+295,E09000019,Islington,London,NHS North Central London Integrated Care Board,E54000028,531158,184647,-0.10992,51.54548,a21434e8-c538-4214-be7e-5a7b8dddc9a9,14846648.21,20452.44405
+296,E09000020,Kensington and Chelsea,London,NHS North West London Integrated Care Board,E54000027,525757,179053,-0.18976,51.49644,ce214620-a6ee-4bf9-8a60-6a698da3912e,12143662.96,20690.95097
+297,E09000021,Kingston upon Thames,London,NHS South West London Integrated Care Board,E54000031,519508,167389,-0.28367,51.39296,db8773db-6282-455c-8947-f5dce1016381,37279152.28,37049.07819
+298,E09000022,Lambeth,London,NHS South East London Integrated Care Board,E54000030,531117,175629,-0.11386,51.46445,41b10beb-16ea-4e20-af56-1ac8c236c12c,26789379.19,33307.63165
+299,E09000023,Lewisham,London,NHS South East London Integrated Care Board,E54000030,537889,173344,-0.01733,51.44231,4e62b324-e3ba-4837-aabc-fe03b84e44c0,35180005.1,40228.35225
+300,E09000024,Merton,London,NHS South West London Integrated Care Board,E54000031,526069,169507,-0.18867,51.41057,e4415b78-ef21-4afe-b611-6256acec46fe,37632862.62,31727.92301
+301,E09000025,Newham,London,NHS North East London Integrated Care Board,E54000029,540714,183344,0.027275,51.53147,6d0b1f4d-53e0-461f-8a46-b7c09ca4cdfa,36195705.79,34577.58551
+302,E09000026,Redbridge,London,NHS North East London Integrated Care Board,E54000029,543512,189477,0.070085,51.58588,a51a5208-99b8-486d-a87f-b7aef1c5eb0a,56387101.73,49298.98484
+303,E09000027,Richmond upon Thames,London,NHS South West London Integrated Care Board,E54000031,519005,172650,-0.28914,51.44035,67c9b082-738e-49c1-9f14-6bb3424d9503,57325921.6,67157.71019
+304,E09000028,Southwark,London,NHS South East London Integrated Care Board,E54000030,533945,175863,-0.07309,51.46589,4417c7b7-2fee-44a0-998c-e9d2738d557d,28849325.23,33561.64997
+305,E09000029,Sutton,London,NHS South West London Integrated Care Board,E54000031,527356,163640,-0.17227,51.35756,dfabdc7b-329a-425f-8291-21ce0cb9c2fc,43835278.71,39068.91666
+306,E09000030,Tower Hamlets,London,NHS North East London Integrated Care Board,E54000029,536340,181452,-0.03647,51.51554,34e7edff-2e2f-4a1c-9f67-0a55ac900ce8,19767102.21,27416.35298
+307,E09000031,Waltham Forest,London,NHS North East London Integrated Care Board,E54000029,537327,190277,-0.01881,51.59461,02a943c2-70d9-41b3-8278-877ffa322a08,38820870.87,32589.76988
+308,E09000032,Wandsworth,London,NHS South West London Integrated Care Board,E54000031,525151,174138,-0.20023,51.4524,2369c9de-7d0a-46e9-a7af-9a9ada63ee9c,34270731,37946.1148
+309,E09000033,Westminster,London,NHS North West London Integrated Care Board,E54000027,528268,180870,-0.15295,51.5122,ba2ab1d0-2851-458e-a1d2-0882e3b77d42,21449377.79,26891.81895
